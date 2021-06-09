@@ -1,11 +1,10 @@
 ### Where you can find TFCR:
 - [TFCR: CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reloaded)
 - [TFCR: GitHub](https://github.com/TerraFirmaCraft-Reloaded)
-##### TFC: TNG Wiki:
-<https://tng.terrafirmacraft.com/Main_Page>
-<https://tng.terrafirmacraft.com/Differences_From_Classic>
-##### TFC: Classic Wiki:
-<https://1710-wiki.terrafirmacraft.com/>
+##### Wikis:
+[TFC: TNG Wiki](https://tng.terrafirmacraft.com/Main_Page)
+[TFC: TNG vs Classic Differences](https://tng.terrafirmacraft.com/Differences_From_Classic>)
+[TFC: Classic Wiki](https://1710-wiki.terrafirmacraft.com/)
 
 ### Donate to our Developers:
 ##### Brønsted:

@@ -27,7 +27,6 @@
 
 ##### Verph:
 - [Patreon](https://www.patreon.com/Verph)
-- [PayPal](https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/terrafirmacraft-reloaded?gameCategorySlug=modpacks&projectID=247181&cn=Add+special+instructions+to+the+addon+author()&business=gustav-lund%40outlook.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://minecraft.curseforge.com/projects/terrafirmacraft-reloaded?gameCategorySlug=modpacks&projectID=247181&lc=US&item_name=TerraFirmaCraft+Reloaded+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD)
 
 
 

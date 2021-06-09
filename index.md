@@ -1,5 +1,3 @@
-## TerraFirmaCraft: Reloaded
-
 ### Where you can find TFCR:
 - [TFCR: CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reloaded)
 - [TFCR: GitHub](https://github.com/TerraFirmaCraft-Reloaded)

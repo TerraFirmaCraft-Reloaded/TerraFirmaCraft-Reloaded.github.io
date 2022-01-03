@@ -15,7 +15,7 @@
 - [TFCR: CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reloaded)
 - [TFCR: GitHub](https://github.com/TerraFirmaCraft-Reloaded)
 - [TFCR: Classic GitHub](https://github.com/TerraFirmaCraft-Reloaded-Classic)
-- 
+
 
 
 ### Donate to our Developers:

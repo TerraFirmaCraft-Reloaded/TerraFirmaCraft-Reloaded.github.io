@@ -1,10 +1,7 @@
-#### TerraFirmaCraft: Reloaded is discontinued.
-##### Nevertheless if you need to access anything related to it for any reason at all, here are the sources.
-
-
 ### Where you can find TFC: Reloaded:
 - [TFCR: CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reloaded)
 - [TFCR: GitHub](https://github.com/TerraFirmaCraft-Reloaded)
+- [TFCR: Classic GitHub](https://github.com/TerraFirmaCraft-Reloaded-Classic)
 - [Reddit](https://www.reddit.com/r/tfcreloaded/)
 
 
@@ -31,3 +28,7 @@
 
 ##### Verph:
 - [Patreon](https://www.patreon.com/Verph)
+
+
+#### TerraFirmaCraft: Reloaded is currently discontinued.
+##### Nevertheless if you need to access anything related to it for any reason at all, here are the sources.

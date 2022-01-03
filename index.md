@@ -1,18 +1,18 @@
-### Community:
+### Where you can find TFC: Reloaded:
+
+## Community:
 - [Reddit](https://www.reddit.com/r/tfcreloaded/)
 - [Discord](https://discord.gg/BYhCVBggSt)
-
-
 
 ##### TerraFirmaCraft Wiki Pages:
 - [TFC: TNG Wiki](https://tng.terrafirmacraft.com/Main_Page)
 - [TFC: TNG vs Classic Differences](https://tng.terrafirmacraft.com/Differences_From_Classic>)
 - [TFC: Classic Wiki](https://1710-wiki.terrafirmacraft.com/)
 
-
-
-### Where you can find TFC: Reloaded:
+#### Download:
 - [TFCR: CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reloaded)
+
+#### GitHub:
 - [TFCR: GitHub](https://github.com/TerraFirmaCraft-Reloaded)
 - [TFCR: Classic GitHub](https://github.com/TerraFirmaCraft-Reloaded-Classic)
 
